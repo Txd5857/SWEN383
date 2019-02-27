@@ -1,0 +1,95 @@
+commit c0431925eaa99283622b7ad7cb26f3f18d8e5018
+Author: drc8599 <43481081+drc8599@users.noreply.github.com>
+Date:   Thu Sep 27 16:12:07 2018 -0400
+
+    Added my information to the members txt file
+
+commit ffe1bb2643471eca43a6a05f0629c028049f83ab
+Author: Tenzin Dhondup <txd5857@g.rit.edu>
+Date:   Thu Sep 27 16:08:25 2018 -0400
+
+    Added my information to the memberstext file
+
+commit 2509c55350ba31f23e6d161a6395c76b1dab6c66
+Author: zxl1987 <zxl1987@g.rit.edu>
+Date:   Thu Sep 27 16:04:42 2018 -0400
+
+    Added my information - Zhimin
+
+commit 507332145618b0cded8a6371fdb2366971bb534a
+Author: csm4025 <43617357+csm4025@users.noreply.github.com>
+Date:   Thu Sep 27 16:01:18 2018 -0400
+
+    Adding Chandler to members txt file
+
+commit 010df055376918e4515c92f15c5f2582d964eb97
+Author: csm4025 <43617357+csm4025@users.noreply.github.com>
+Date:   Thu Sep 27 15:49:54 2018 -0400
+
+    Adding in Java src code from activity 3b weather station
+
+commit a43f1e8677b35e07da3a0fd9fae2beaf82438040
+Author: csm4025 <43617357+csm4025@users.noreply.github.com>
+Date:   Thu Sep 27 15:49:31 2018 -0400
+
+    Adding in UML class and sequence diagrams pdf
+
+commit 01466017ac98ec815065dbee2f1121aca79a5a9f
+Author: Chad Cummings <cbc6525@g.rit.edu>
+Date:   Thu Sep 27 15:32:57 2018 -0400
+
+    Added my name below other names
+
+commit 072cee859b2911a036df138d3eb033ef8f7c3da8
+Author: drc8599 <43481081+drc8599@users.noreply.github.com>
+Date:   Thu Sep 27 15:18:07 2018 -0400
+
+    Adding name
+
+commit 275c6aa118ab45d815ab154ecd9582f6e7efde3c
+Author: csm4025 <43617357+csm4025@users.noreply.github.com>
+Date:   Thu Sep 27 12:22:05 2018 -0400
+
+    Added name
+
+commit 13cf351816654fd3978acd38046b2b1119b019ff
+Author: Chad Cummings <43622458+cbc6525@users.noreply.github.com>
+Date:   Thu Sep 27 12:06:44 2018 -0400
+
+    Add my name in ## Team
+
+commit cd5ef1685fe13acc6c3860fd131c2a0d311426b0
+Author: zxl1987 <zxl1987@g.rit.edu>
+Date:   Thu Sep 27 11:23:50 2018 -0400
+
+    Added my name - Zhimin
+
+commit 4c8e045954ec399f7cfd2a64b119e8d50e279d5f
+Author: drc8599 <43481081+drc8599@users.noreply.github.com>
+Date:   Thu Sep 27 11:12:50 2018 -0400
+
+    Added names
+
+commit 5562f854f2c9efe56ef10d4267d5a3654df0322c
+Author: Txd5857 <txd5857@g.rit.edu>
+Date:   Wed Sep 26 23:18:27 2018 -0400
+
+    Added my name -Tenzin Dhondup
+
+commit efb637a5261047c375fcb2ef60138be5db21f2a2
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Fri Feb 9 09:53:07 2018 -0500
+
+    Update README.md
+
+commit 255b490386ebf0a392cd6556fdf4e2b5e6d2c2a7
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Fri Feb 9 09:50:49 2018 -0500
+
+    Update README.md
+
+commit abd3abfd3b9a3e259f04ecb1058f9e179530ce9a
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Fri Feb 9 09:47:03 2018 -0500
+
+    Initial commit
